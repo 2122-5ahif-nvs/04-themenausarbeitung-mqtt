@@ -5,6 +5,6 @@ Rieser Felix
 
 Hier findet man ein MQTT Tutorial und Slides für die Präsentation.
 
-[MQTT Tuturial](https://rieserfelix.github.io/mqtt-example/)
+[MQTT Tutorial](https://rieserfelix.github.io/mqtt-example/)
 
 [MQTT Slides ](https://rieserfelix.github.io/mqtt-presentation/#/) 
