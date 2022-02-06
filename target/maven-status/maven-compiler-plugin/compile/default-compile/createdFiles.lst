@@ -1,0 +1,4 @@
+org/acme/Device.class
+org/acme/DeviceResource.class
+org/acme/TempGenerator.class
+org/acme/Reciever.class
